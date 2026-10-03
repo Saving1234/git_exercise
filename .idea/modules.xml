@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/01_JAVA_Practice.iml" filepath="$PROJECT_DIR$/.idea/01_JAVA_Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap03-method-and-api-practice/chap03-method-and-api-practice.iml" filepath="$PROJECT_DIR$/chap03-method-and-api-practice/chap03-method-and-api-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap04-control-flow-statement-practice/chap04-control-flow-statement-practice.iml" filepath="$PROJECT_DIR$/chap04-control-flow-statement-practice/chap04-control-flow-statement-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap05-array-practice/chap05-array-practice.iml" filepath="$PROJECT_DIR$/chap05-array-practice/chap05-array-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap06-class-and-object-practice/chap06-class-and-object-practice.iml" filepath="$PROJECT_DIR$/chap06-class-and-object-practice/chap06-class-and-object-practice.iml" />
+    </modules>
+  </component>
+</project>
