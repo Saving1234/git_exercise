@@ -28,9 +28,12 @@ public class Application03 {
          * 자동차가 도로를 달립니다.
          * 보트가 물 위를 떠다닙니다.
          * */
+//        VehicleFactory vehicleFactory = new VehicleFactory();
 
-        Vehicle v1 = VehicleFactory.create("car");
+        Vehicle v1 = VehicleFactory.create("car"); // new Car()
         Vehicle v2 = VehicleFactory.create("boat");
+
+        System.out.println(((Car) v1).getFuelType());
 
         VehicleFactory.runVehicle(v1);
         VehicleFactory.runVehicle(v2);
